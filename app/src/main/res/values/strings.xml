@@ -2,4 +2,9 @@
     <string name="app_name">Urządzenia Domowe</string>
     <string name="title_home_devices">Urządzenia Domowe</string>
     <string name="author">Autor: Jan Maciejewski</string>
+    <string name="washing_machine">Pralka</string>
+    <string name="washing_machine_image_description">Pralka</string>
+    <string name="wash_program_hint">Podaj nr prania 1..12</string>
+    <string name="confirm">Zatwierdź</string>
+    <string name="wash_program_not_set">Numer prania: nie podano</string>
 </resources>
