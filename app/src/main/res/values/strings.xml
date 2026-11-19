@@ -7,4 +7,6 @@
     <string name="wash_program_hint">Podaj nr prania 1..12</string>
     <string name="confirm">Zatwierdź</string>
     <string name="wash_program_not_set">Numer prania: nie podano</string>
+    <string name="wash_program_number">Numer prania: %1$d</string>
+    <string name="invalid_wash_program">Podaj numer prania od 1 do 12</string>
 </resources>
