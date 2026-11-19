@@ -9,4 +9,11 @@
     <string name="wash_program_not_set">Numer prania: nie podano</string>
     <string name="wash_program_number">Numer prania: %1$d</string>
     <string name="invalid_wash_program">Podaj numer prania od 1 do 12</string>
+    <string name="vacuum">Odkurzacz</string>
+    <string name="vacuum_image_description">Odkurzacz</string>
+    <string name="turn_on">Włącz</string>
+    <string name="turn_off">Wyłącz</string>
+    <string name="vacuum_off">Odkurzacz wyłączony</string>
+    <string name="vacuum_on">Odkurzacz włączony</string>
+    <string name="battery_charged">Status: naładowany</string>
 </resources>
